@@ -1,0 +1,4 @@
+
+creeper:
+  can_destroy_chests: false
+  can_destroy_item_frames: false

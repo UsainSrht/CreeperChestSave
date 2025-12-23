@@ -1,0 +1,6 @@
+name: CreeperChestSave
+description: 'Creeper explosions doesn''t destroy chests.'
+author: UsainSrht
+version: '1.0'
+main: com.usainsrht.creeperchestsave.CreeperChestSave
+api-version: '1.21'
