@@ -1,4 +1,7 @@
 
-creeper:
-  can_destroy_chests: false
-  can_destroy_item_frames: false
+explosion_can_destroy_chests: false
+explosion_can_destroy_item_frames: false
+explosion_can_destroy_armor_stands: false
+explosion_can_destroy_pets: false
+explosion_can_destroy_villagers: false
+explosion_can_destroy_blocks: true
