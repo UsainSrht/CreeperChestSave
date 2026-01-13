@@ -30,7 +30,7 @@ public final class CreeperChestSave extends JavaPlugin {
 
         registerCommand(
                 new MainCommand(
-                        "creeperchestsave", "main command for reloading creeperchestsave plugin.", "/creeperchestsave reload", Arrays.asList("css")
+                        "creeperchestsave", "main command for reloading creeperchestsave plugin.", "/creeperchestsave reload", Arrays.asList("ccs")
                 )
         );
 
